@@ -16,9 +16,13 @@
 
 <p>
   <a href="#arn-dh-title">
-    <img src="https://github-readme-stats.vercel.app/api?username=arn-dh&theme=vision-friendly-dark&show_icons=true&count_private=true&include_all_commits=true" alt="arn-dh" align="left" />
+    <img src="https://github-readme-stats.vercel.app/api?username=arn-dh&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true" alt="arn-dh" />
+  </a>
+  <a href="#arn-dh-title">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arn-dh&layout=compact" alt="arn-dh top langs"/>
   </a>
 </p>
+
 
 <!-- links -->
 
