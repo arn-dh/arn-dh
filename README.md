@@ -1,4 +1,4 @@
-<h1 align="left" id="arn-dh-title">☀️ Hi there, and welcome! 🌻 </h1>
+<h1 align="left" id="arn-dh-title">☀️ Hi there, and welcome! </h1>
 
 - 💻 &nbsp;I've joined Github in **2020** when I changed career to become a **software developer**
 - 🏢 &nbsp;I'm currently working full time remotely as a **full stack developer** for **[Betterway]**
